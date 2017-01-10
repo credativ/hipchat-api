@@ -30,7 +30,7 @@ from hipchat.api import HipchatAPI
 The HipchatAPI class uses a given .ini file to obtain all information it needs to connect to a corresponding Hipchat room.
 The following example should how the configuration file should look like:
 ```
-[hipchat]                                                                                                                                                                                                                                     
+[hipchat] 
 url = https://<URL>
 token = <ACCESS TOKEN>
 room = <Room ID>

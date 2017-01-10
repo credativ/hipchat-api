@@ -38,7 +38,7 @@ timeout = <Timeout in seconds>
 ```
 
 ## Usage
-In this repository, you can find a simple script called hipchatctl.py 
-This little tool shows how this module uses the methods of the HipchatAPI class to write message or cards.
+You can find a simple script called hipchatctl.py in this repository. 
+This little tool shows how it uses the methods of the HipchatAPI class to write message or cards.
 
 Take a look into it to learn more about the methods and how to use them.

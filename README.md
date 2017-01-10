@@ -28,7 +28,7 @@ from hipchat.api import HipchatAPI
 
 ## Configuration
 The HipchatAPI class uses a given .ini file to obtain all information it needs to connect to a corresponding Hipchat room.
-The following example should how the configuration file should look like:
+The following example shows how the configuration file should look like:
 ```
 [hipchat] 
 url = https://<URL>
